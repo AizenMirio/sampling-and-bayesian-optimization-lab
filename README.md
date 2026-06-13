@@ -1,11 +1,12 @@
 # Sampling and Bayesian Optimization Lab
 
-This repository contains earlier coursework on energy-based sampling and
-Bayesian optimization from IIT Bombay CS726.
+Langevin sampling, Gaussian Process regression, and Bayesian optimization
+experiments with reproducible demos.
 
 It includes foundational implementations and experiments around Langevin
 sampling, Gaussian Process regression, acquisition functions, and uncertainty
-analysis.
+analysis. Originally developed as IIT Bombay coursework and later cleaned for
+reproducibility.
 
 ## What This Project Demonstrates
 
