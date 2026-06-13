@@ -1,0 +1,10 @@
+Kernel,n_samples,Acquisition,Correlation
+RBF,100,EI,0.623273
+RBF,100,PI,0.620590
+RBF,100,random,0.612431
+Matérn (ν=1.5),100,EI,0.472234
+Matérn (ν=1.5),100,PI,0.467924
+Matérn (ν=1.5),100,random,0.440727
+Rational Quadratic,100,EI,0.596387
+Rational Quadratic,100,PI,0.584397
+Rational Quadratic,100,random,0.585059

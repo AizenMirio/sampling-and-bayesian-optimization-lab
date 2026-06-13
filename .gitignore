@@ -1,0 +1,29 @@
+.DS_Store
+._*
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.pth
+*.pt
+*.npy
+*.npz
+env/
+venv/
+.venv/
+data/
+outputs/
+checkpoints/
+
+# Generated experiment artifacts. Keep a small curated gallery in docs/assets/.
+*.png
+!docs/
+!docs/assets/
+!docs/assets/*.png
+
+# Original course/report material stays local unless explicitly cleared for release.
+reports/

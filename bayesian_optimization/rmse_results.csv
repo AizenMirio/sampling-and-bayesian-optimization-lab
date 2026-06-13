@@ -1,0 +1,37 @@
+Kernel,n_samples,Acquisition,RMSE
+RBF,10,EI,32.295955
+RBF,10,PI,32.116041
+RBF,10,random,32.592148
+RBF,20,EI,36.755891
+RBF,20,PI,44.499350
+RBF,20,random,44.797334
+RBF,50,EI,21.134024
+RBF,50,PI,21.211343
+RBF,50,random,21.529466
+RBF,100,EI,5.590070
+RBF,100,PI,5.600188
+RBF,100,random,5.595559
+Matérn (ν=1.5),10,EI,54.751025
+Matérn (ν=1.5),10,PI,54.816436
+Matérn (ν=1.5),10,random,53.600231
+Matérn (ν=1.5),20,EI,23.474824
+Matérn (ν=1.5),20,PI,23.880895
+Matérn (ν=1.5),20,random,23.878639
+Matérn (ν=1.5),50,EI,17.586441
+Matérn (ν=1.5),50,PI,17.615589
+Matérn (ν=1.5),50,random,17.632451
+Matérn (ν=1.5),100,EI,10.504652
+Matérn (ν=1.5),100,PI,10.504087
+Matérn (ν=1.5),100,random,9.916657
+Rational Quadratic,10,EI,34.440551
+Rational Quadratic,10,PI,34.430633
+Rational Quadratic,10,random,34.342689
+Rational Quadratic,20,EI,30.197899
+Rational Quadratic,20,PI,30.220766
+Rational Quadratic,20,random,30.166571
+Rational Quadratic,50,EI,25.007493
+Rational Quadratic,50,PI,24.973448
+Rational Quadratic,50,random,24.772923
+Rational Quadratic,100,EI,6.021587
+Rational Quadratic,100,PI,6.020592
+Rational Quadratic,100,random,6.023626

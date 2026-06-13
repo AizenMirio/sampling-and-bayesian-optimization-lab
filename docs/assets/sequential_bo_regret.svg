@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="22" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700">Sequential BO: Mean Simple Regret</text>
+<line x1="72" y1="378" x2="732" y2="378" stroke="#111827"/>
+<line x1="72" y1="34" x2="72" y2="378" stroke="#111827"/>
+<text x="380.0" y="422" text-anchor="middle" font-family="Arial" font-size="12">BO round</text>
+<text transform="translate(18 220.0) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="12">Simple regret, lower is better</text>
+<line x1="72.0" y1="378" x2="72.0" y2="383" stroke="#111827"/>
+<text x="72.0" y="398" text-anchor="middle" font-family="Arial" font-size="11">0</text>
+<line x1="204.0" y1="378" x2="204.0" y2="383" stroke="#111827"/>
+<text x="204.0" y="398" text-anchor="middle" font-family="Arial" font-size="11">6</text>
+<line x1="336.0" y1="378" x2="336.0" y2="383" stroke="#111827"/>
+<text x="336.0" y="398" text-anchor="middle" font-family="Arial" font-size="11">12</text>
+<line x1="468.0" y1="378" x2="468.0" y2="383" stroke="#111827"/>
+<text x="468.0" y="398" text-anchor="middle" font-family="Arial" font-size="11">18</text>
+<line x1="600.0" y1="378" x2="600.0" y2="383" stroke="#111827"/>
+<text x="600.0" y="398" text-anchor="middle" font-family="Arial" font-size="11">24</text>
+<line x1="732.0" y1="378" x2="732.0" y2="383" stroke="#111827"/>
+<text x="732.0" y="398" text-anchor="middle" font-family="Arial" font-size="11">30</text>
+<line x1="67" y1="378.0" x2="72" y2="378.0" stroke="#111827"/>
+<text x="63" y="382.0" text-anchor="end" font-family="Arial" font-size="11">0.0</text>
+<line x1="72" y1="378.0" x2="732" y2="378.0" stroke="#e5e7eb"/>
+<line x1="67" y1="309.2" x2="72" y2="309.2" stroke="#111827"/>
+<text x="63" y="313.2" text-anchor="end" font-family="Arial" font-size="11">1.4</text>
+<line x1="72" y1="309.2" x2="732" y2="309.2" stroke="#e5e7eb"/>
+<line x1="67" y1="240.4" x2="72" y2="240.4" stroke="#111827"/>
+<text x="63" y="244.4" text-anchor="end" font-family="Arial" font-size="11">2.9</text>
+<line x1="72" y1="240.4" x2="732" y2="240.4" stroke="#e5e7eb"/>
+<line x1="67" y1="171.6" x2="72" y2="171.6" stroke="#111827"/>
+<text x="63" y="175.6" text-anchor="end" font-family="Arial" font-size="11">4.3</text>
+<line x1="72" y1="171.6" x2="732" y2="171.6" stroke="#e5e7eb"/>
+<line x1="67" y1="102.8" x2="72" y2="102.8" stroke="#111827"/>
+<text x="63" y="106.8" text-anchor="end" font-family="Arial" font-size="11">5.7</text>
+<line x1="72" y1="102.8" x2="732" y2="102.8" stroke="#e5e7eb"/>
+<line x1="67" y1="34.0" x2="72" y2="34.0" stroke="#111827"/>
+<text x="63" y="38.0" text-anchor="end" font-family="Arial" font-size="11">7.2</text>
+<line x1="72" y1="34.0" x2="732" y2="34.0" stroke="#e5e7eb"/>
+<polyline points="72.0,50.4 94.0,141.9 116.0,157.8 138.0,178.7 160.0,265.5 182.0,304.4 204.0,328.0 226.0,330.8 248.0,331.1 270.0,339.6 292.0,349.4 314.0,360.3 336.0,363.2 358.0,366.3 380.0,366.6 402.0,366.6 424.0,366.6 446.0,368.2 468.0,369.7 490.0,370.1 512.0,376.2 534.0,376.9 556.0,376.9 578.0,376.9 600.0,377.0 622.0,377.0 644.0,377.6 666.0,377.6 688.0,377.7 710.0,377.7 732.0,378.0" fill="none" stroke="#2563eb" stroke-width="2.4"/>
+<line x1="615" y1="44" x2="637" y2="44" stroke="#2563eb" stroke-width="2.4"/>
+<text x="643" y="48" font-family="Arial" font-size="12">EI</text>
+<polyline points="72.0,50.4 94.0,97.0 116.0,119.2 138.0,183.9 160.0,197.8 182.0,231.4 204.0,238.4 226.0,292.3 248.0,306.4 270.0,323.3 292.0,336.0 314.0,349.3 336.0,350.8 358.0,353.8 380.0,355.8 402.0,355.8 424.0,355.8 446.0,355.8 468.0,358.6 490.0,360.3 512.0,362.0 534.0,362.9 556.0,376.6 578.0,377.8 600.0,377.8 622.0,377.8 644.0,377.8 666.0,377.8 688.0,377.8 710.0,377.8 732.0,377.8" fill="none" stroke="#dc2626" stroke-width="2.4"/>
+<line x1="615" y1="66" x2="637" y2="66" stroke="#dc2626" stroke-width="2.4"/>
+<text x="643" y="70" font-family="Arial" font-size="12">LCB</text>
+<polyline points="72.0,50.4 94.0,117.2 116.0,161.8 138.0,194.8 160.0,228.8 182.0,299.2 204.0,311.8 226.0,325.7 248.0,335.6 270.0,346.6 292.0,351.5 314.0,359.4 336.0,363.3 358.0,365.6 380.0,371.5 402.0,373.5 424.0,375.4 446.0,375.9 468.0,376.9 490.0,377.2 512.0,377.2 534.0,377.6 556.0,377.6 578.0,377.6 600.0,377.6 622.0,377.6 644.0,377.6 666.0,377.6 688.0,377.6 710.0,377.6 732.0,377.7" fill="none" stroke="#16a34a" stroke-width="2.4"/>
+<line x1="615" y1="88" x2="637" y2="88" stroke="#16a34a" stroke-width="2.4"/>
+<text x="643" y="92" font-family="Arial" font-size="12">PI</text>
+<polyline points="72.0,50.4 94.0,61.7 116.0,118.0 138.0,141.1 160.0,171.8 182.0,171.8 204.0,171.8 226.0,171.8 248.0,171.8 270.0,173.9 292.0,173.9 314.0,198.5 336.0,236.0 358.0,236.0 380.0,236.0 402.0,236.0 424.0,239.4 446.0,247.1 468.0,259.1 490.0,284.5 512.0,284.5 534.0,284.5 556.0,284.5 578.0,284.5 600.0,284.5 622.0,284.5 644.0,284.5 666.0,284.5 688.0,284.5 710.0,284.5 732.0,284.5" fill="none" stroke="#6b7280" stroke-width="2.4"/>
+<line x1="615" y1="110" x2="637" y2="110" stroke="#6b7280" stroke-width="2.4"/>
+<text x="643" y="114" font-family="Arial" font-size="12">RANDOM</text>
+</svg>
